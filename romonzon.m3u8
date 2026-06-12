@@ -1,0 +1,233 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="01 | AMERICA TV ARG" tvg-logo="https://iconape.com/wp-content/png_logo_vector/america-tv-logo.png" group-title="ARGENTINA",America TV
+http://190.7.19.197:232/play/a03b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="02 | TV PUBLICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisión_Pública_%282021%29.svg/3840px-TVP_-_Televisión_Pública_%282021%29.svg.png" group-title="ARGENTINA",Tv Publica
+http://190.7.19.197:232/play/a03c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="03 | EL NUEVE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",El Nueve
+http://190.7.19.197:232/play/a03k/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="04 | TELEFE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="ARGENTINA",Telefe
+http://190.7.19.197:232/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="05 | EL TRECE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="ARGENTINA",El Trece
+http://190.7.19.197:232/play/a05a/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="06 | CIUDAD MAGAZINE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" group-title="ARGENTINA",Ciudad Magazine
+http://190.7.19.197:232/play/a04l/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="07 | TODO NOTICIAS ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/todo_notcias-mediano.png" group-title="ARGENTINA",TN
+http://190.7.19.197:232/play/a03l/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="08 | C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/C5N_2017_Alternate.svg/960px-C5N_2017_Alternate.svg.png" group-title="ARGENTINA",C5N
+http://190.7.19.197:232/play/a040/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="09 | El Destape Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ElDestape.png" group-title="ARGENTINA",El Destape Tv
+http://190.7.19.197:232/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="10 | CRONICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Crónica-logo.svg/1280px-Crónica-logo.svg.png" group-title="ARGENTINA",Cronica Tv
+http://190.7.19.197:232/play/a041/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="11 | CANAL 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/330px-Canal_26_logo_%282022%29.svg.png" group-title="ARGENTINA",26 Tv
+http://190.7.19.197:232/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="12 | CANAL A24 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/A24_%282025%29.svg/960px-A24_%282025%29.svg.png" group-title="ARGENTINA",A24
+http://190.7.19.197:232/play/a03z/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="13 | ESPN PREMIUM ᴴᴰ" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/604.png" group-title="ARGENTINA",ESPN Premium
+http://190.7.19.197:232/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="14 | TNT SPORTS ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/3840px-TNT_Sports_2021_logo.svg.png" group-title="ARGENTINA",TNT Sports
+http://190.7.19.197:232/play/a037/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="15 | DSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="ARGENTINA",Dsports
+http://190.7.19.197:232/play/a09i/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="16 |DSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="ARGENTINA",Dsports 2
+http://190.7.19.197:232/play/a09h/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="17 | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="ARGENTINA",Deportv
+http://190.7.19.197:232/play/a05d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="18 | TyC SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tyc_sports-mediano.png" group-title="ARGENTINA",TyC Sports
+http://190.7.19.197:232/play/a04w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="19 | ESPN ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="ARGENTINA",ESPN
+http://190.7.19.197:232/play/a03n/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="20 | ESPN 2 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ARGENTINA",ESPN 2
+http://190.7.19.197:232/play/a03m/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="21 | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/3840px-ESPN3_logo.svg.png" group-title="ARGENTINA",ESPN 3
+http://190.7.19.197:232/play/a03o/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="22 | ESPN 4 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/3840px-ESPN_4_logo.svg.png" group-title="ARGENTINA",ESPN 4
+http://190.7.19.197:232/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="23 | FOX SPORTS" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/605.png" group-title="ARGENTINA",Fox Sports
+http://190.7.19.197:232/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24 | FOX SPORTS 2" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/608.png" group-title="ARGENTINA",Fox Sports 2
+http://190.7.19.197:232/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="25 | FOX SPORTS 3" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/AR/1607.png" group-title="ARGENTINA",Fox Sports 3
+http://190.7.19.197:232/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="26 | AMERICA SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/3840px-Logo_AM-sports-2019.svg.png" group-title="ARGENTINA",America Sports
+http://190.7.19.197:232/play/a044/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="27 | PAKA PAKA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_(2010-2016).png" group-title="ARGENTINA",Paka Paka
+http://190.7.19.197:232/play/a08e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="28 | DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/3840px-2022_Disney_Channel_logo.svg.png" group-title="ARGENTINA",Disney Channel
+http://190.7.19.197:232/play/a04v/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="29 | NICKELODEON" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/nickelodeon-mediano.png" group-title="ARGENTINA",Nickelodeon
+http://190.7.19.197:232/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="30 | CARTOON NETWORK ᴴᴰ" tvg-logo="https://brandlogovector.com/wp-content/uploads/2021/03/Cartoon-Network-CN-Logo.png" group-title="ARGENTINA",Cartoon Network
+http://190.7.19.197:232/play/a05s/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="31 | KIDOO" tvg-logo="https://foros.forounivers.com/uploads/monthly_2024_09/large.Kidoo.png.e114503ea6452ddbd3e4f542d1d56e0f.png" group-title="ARGENTINA",Kidoo
+http://190.7.19.197:232/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="32 | DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/3840px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="ARGENTINA",Discovery Kids
+http://190.7.19.197:232/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="33 | DISNEY JR." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2024_Disney_Jr._Logo.svg/1280px-2024_Disney_Jr._Logo.svg.png" group-title="ARGENTINA",Disney Jr
+http://190.7.19.197:232/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="34 | BABY TV" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/baby_latinoamerica-mediano.png" group-title="ARGENTINA",Baby Tv
+http://190.7.19.197:232/play/a04i/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="35 | TOONCAST" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tooncast-mediano.png" group-title="ARGENTINA",Tooncast
+http://190.7.19.197:232/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="36 | NICK JRᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="ARGENTINA",Nick Jr
+http://190.7.19.197:232/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="37 | CINEAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="ARGENTINA",CineAr
+http://190.7.19.197:232/play/a04b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="38 | VOLVER" tvg-logo="https://www.volver.com.ar/img/logo.png" group-title="ARGENTINA",Volver
+http://190.7.19.197:232/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="39 | CINEMAX ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="ARGENTINA",Cinemax
+http://190.7.19.197:232/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="40 | SPACE ᴴᴰ" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="ARGENTINA",Space
+http://190.7.19.197:232/play/a050/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="41 | STAR CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Star_Channel_2023.svg/1280px-Star_Channel_2023.svg.png" group-title="ARGENTINA",Star Channel
+http://190.7.19.197:232/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="42 | Cinecanal HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Cinecanal_1995.png" group-title="ARGENTINA",Cinecanal
+http://190.7.19.197:232/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="43 | TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/TNT-oficial.png" group-title="ARGENTINA",TNT
+http://190.7.19.197:232/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="44 | TNT SERIES ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/tnt_series-mediano.png" group-title="ARGENTINA",TNT Series
+http://190.7.19.197:232/play/a088/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="45 | STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/3840px-Logo_Studio_Universal.svg.png" group-title="ARGENTINA",Studio Universal
+http://190.7.19.197:232/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="46 | EUROPA EUROPA" tvg-logo="https://television.com.ar/wp-content/uploads/2024/05/LOGOS-EE-azul-con-europa-sobre-blanco.png" group-title="ARGENTINA",Europa Europa
+http://190.7.19.197:232/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="47 | HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-HBO.png" group-title="ARGENTINA",HBO
+http://190.7.19.197:232/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="48 | HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/3840px-HBO2_logo.svg.png" group-title="ARGENTINA",HBO 2
+http://190.7.19.197:232/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="49 | HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="ARGENTINA",HBO Plus
+http://190.7.19.197:232/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="50 | HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1280px-HBO_Pop.svg.png" group-title="ARGENTINA",HBO Pop
+http://190.7.19.197:232/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="51 | HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png" group-title="ARGENTINA",HBO Xtreme
+http://190.7.19.197:232/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="52 | HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="ARGENTINA",HBO Family
+http://190.7.19.197:232/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="53 | HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/500px-HBO_Signature.svg.png" group-title="ARGENTINA",HBO Signature
+http://190.7.19.197:232/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="54 | UNIVERSAL CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Universal_Pictures_logo_2.png" group-title="ARGENTINA",Universal
+http://190.7.19.197:232/play/a03u/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="55 | DISCOVERY H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/3840px-H%26h_Logo.svg.png" group-title="ARGENTINA",Discovery H&H
+http://190.7.19.197:232/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="56 | HGTV ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="ARGENTINA",HGTV
+http://190.7.19.197:232/play/a04n/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="57 | NATGEO ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/3840px-National-Geographic-Logo.svg.png" group-title="ARGENTINA",NatGeo
+http://190.7.19.197:232/play/a03s/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="58 | DISCOVERY CHANNEL ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="ARGENTINA",Discovery Channel
+http://190.7.19.197:232/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="59 | ANIMAL PLANET ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="ARGENTINA",Animal Planet
+http://190.7.19.197:232/play/a081/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="60 | DISCOVERY THEATER ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_theater-mediano.png" group-title="ARGENTINA",Discovery Theater
+http://190.7.19.197:232/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="61 | HISTORY ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png" group-title="ARGENTINA",History
+http://190.7.19.197:232/play/a03h/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="62 | HISTORY 2 ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="ARGENTINA",History 2
+http://190.7.19.197:232/play/a019/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="63 | DISCOVERY WORLD ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_world-mediano.png" group-title="ARGENTINA",Discovery World
+http://190.7.19.197:232/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="64 | ENCUENTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_canal_encuentro.png" group-title="ARGENTINA",Encuentro
+http://190.7.19.197:232/play/a013/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="65 | LOVE NATURE ᴴᴰ" tvg-logo="https://lovenature.com/wp-content/uploads/2020/08/love-nature-logo_peacock.png" group-title="ARGENTINA",LOVE NATURE
+http://elpapanatas.space:8080/MelvinPaz/DSpJYBMRBM/58263
+
+#EXTINF:-1 tvg-id="" tvg-name="66 | DISCOVERY ID ᴴᴰ" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/investigation_discovery_latinoamerica-mediano.png" group-title="ARGENTINA",Discovery ID
+http://190.7.19.197:232/play/a083/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="67 | QUIERO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPU_06UNzQCAR8_4sb0je1y456h1iJPMrSTFsSLiboQuwXcf9-QUZf-OOBOgC8JTBNSPXSQBEhyphenhyphenjVdZSiuKSSbVmJxizCvVPRZPaxURbdFNwHtHTW9RBF1jdcRuXrPnrCDmkq0xhHZn1M/s350/quiero.png" group-title="ARGENTINA",Quiero
+http://190.7.19.197:232/play/a04r/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="68 | CM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="ARGENTINA",CM
+http://190.7.19.197:232/play/a094/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="69 | VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="ARGENTINA",Venus
+http://190.7.19.197:232/play/a057/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="70 | VENUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" group-title="ARGENTINA",Venus 2
+http://elpapanatas.space:8080/MelvinPaz/DSpJYBMRBM/422705
+
+#EXTINF:-1 tvg-id="" tvg-name="71 | PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/3840px-Play_Boy_TV_logo.svg.png" group-title="ARGENTINA",Playboy Tv
+http://190.7.19.197:232/play/a056/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="72 | PLAYBOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Play_Boy_TV_logo.svg/3840px-Play_Boy_TV_logo.svg.png" group-title="ARGENTINA",Playboy 2
+http://elpapanatas.space:8080/MelvinPaz/DSpJYBMRBM/422707
+
+#EXTINF:-1 tvg-id="" tvg-name="73 | SEXTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sextreme_logo.png/1280px-Sextreme_logo.png" group-title="ARGENTINA",Sextreme
+http://190.7.19.197:232/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="74 | SEXTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sextreme_logo.png/1280px-Sextreme_logo.png" group-title="ARGENTINA",Sextreme 2
+http://elpapanatas.space:8080/MelvinPaz/DSpJYBMRBM/422710
+
+#EXTINF:-1 tvg-id="" tvg-name="75 | SEX PRIVE" tvg-logo="https://cdn.mitvstatic.com/channels/br_sexprive-brasileirinhas_m.png" group-title="ARGENTINA",SEX PRIVE
+http://elpapanatas.space:8080/MelvinPaz/DSpJYBMRBM/422709
+
+#EXTINF:-1 tvg-id="" tvg-name="76 | SEXY HOT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sexy_Hot_logo.png/1280px-Sexy_Hot_logo.png" group-title="ARGENTINA",SEXY HOT
+http://elpapanatas.space:8080/MelvinPaz/DSpJYBMRBM/422712
+
+#EXTINF:-1 tvg-id="" tvg-name="77 | SEXMEX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/SexMex_logo.png" group-title="ARGENTINA",SEXMEX
+http://elpapanatas.space:8080/MelvinPaz/DSpJYBMRBM/422708
+
+
