@@ -44,8 +44,17 @@ http://190.7.19.197:232/play/a037/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="15 | DSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="ARGENTINA",Dsports
 http://190.7.19.197:232/play/a09i/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="15 | DSPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="ARGENTINA",Dsports
+http://190.238.43.117:9000/play/a09d/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="16 |DSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="ARGENTINA",Dsports 2
 http://190.7.19.197:232/play/a09h/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="16 |DSPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/DSports2.png" group-title="ARGENTINA",Dsports 2
+http://190.238.43.117:9000/play/a09f/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="16 |DSPORTS +" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/DIRECTV_Sports%2B_Latin_America_%282018%29.svg/1920px-DIRECTV_Sports%2B_Latin_America_%282018%29.svg.png" group-title="ARGENTINA",Dsports +
+http://190.238.43.117:9000/play/a09g/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="17 | Deportv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/DeporTV_%282020_Logo_oficial%29.png" group-title="ARGENTINA",Deportv
 http://190.7.19.197:232/play/a05d/index.m3u8
