@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="01 | AMERICA TV ARG" tvg-logo="https://iconape.com/wp-content/png_logo_vector/america-tv-logo.png" group-title="ARGENTINA",America TV
 http://190.7.19.197:232/play/a03b/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="02 | TV PUBLICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisión_Pública_%282021%29.svg/3840px-TVP_-_Televisión_Pública_%282021%29.svg.png" group-title="ARGENTINA",Tv Publica
+#EXTINF:-1 tvg-id="" tvg-name="02 | TV PUBLICA ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Televisión_Pública_%28Argentina_2021%29.png/960px-Televisión_Pública_%28Argentina_2021%29.png" group-title="ARGENTINA",Tv Publica
 http://190.7.19.197:232/play/a03c/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="03 | EL NUEVE ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="ARGENTINA",El Nueve
